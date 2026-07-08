@@ -1,7 +1,7 @@
 {
-  "name": "@alcorexchange/alcor-swap-sdk",
-  "version": "1.1.4",
-  "description": "",
+  "name": "@JHardman88/alcor-v2-sdk",
+  "version": "1.0.0",
+  "description": "My custom Alcor V2 SDK fork",
   "main": "build/index.js",
   "module": "build/esm/index.js",
   "browser": "build/esm/index.js",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alcorexchange/alcor-v2-sdk"
+    "url": "https://github.com/JHardman88/AlcorJ2v2.git"
   },
   "keywords": [
     "alcor",
@@ -39,7 +39,7 @@
     "amm",
     "dex"
   ],
-  "author": "alcorexchange",
+  "author": "JHardman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alcorexchange/alcor-v2-sdk/issues"
